@@ -10,16 +10,20 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Residencias Externas</title>
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
-        <h1>Residencias Externas</h1>
         
-        <div> 
+        
+        <div id="contenedor_principal"> 
             <div> 
+                
+                <div id="logo">
                 <img src ="logosUPeU.png"> 
-                    <span> </span>
-                </imag>
-                <div>
+                     <h1>Residencias Externas</h1>
+                
+                 </div>   
+                <div id="menu">
                     <ul>
                         <li>Inicio</li>
                         <li>Residencia</li>
