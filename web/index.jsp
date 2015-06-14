@@ -9,9 +9,34 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Residencias Externas</title>
     </head>
     <body>
-        <h1>Hola chicos</h1>
+        <h1>Residencias Externas</h1>
+        
+        <div> 
+            <div> 
+                <img src ="logosUPeU.png"> 
+                    <span> </span>
+                </imag>
+                <div>
+                    <ul>
+                        <li>Inicio</li>
+                        <li>Residencia</li>
+                        <li>Reservas</li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <img>
+                 <div>
+                <img>
+                
+                </img>
+            </div>
+                </img>
+            </div>
+        </div>
+    
     </body>
 </html>
